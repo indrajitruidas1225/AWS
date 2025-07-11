@@ -35,7 +35,7 @@ Amazon S3, or Simple Storage Service, is a cloud-based object storage service of
     ```
 
 5. Now go to the objects tab and upload the `index.html` file
-6.From properties, enable **Static Website Hosting**
+6. From properties, enable **Static Website Hosting**
 7. From the properties, click on **Bucket website endpoint** and you'll see the UI. 
 8. Later you'll need to change the api url in the `index.html` file.
 
