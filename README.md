@@ -144,3 +144,10 @@ You can create your own stage also and better enable auto-deploy.
 1. From the s3 bucket properties, click on the **Bucket website endpoint**. 
 2. Enter the details, click on **send**.
 3. You'll receive it in your email now, the email you registered in SES. Check spam folder also.
+
+
+## Author
+
+**Indrajit Ruidas**  
+📧 [mail me](mailto:indrajitruidas8436@yahoo.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/indrajitruidas1225)
